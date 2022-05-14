@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "farid",
+      "jurusan": "sipil",
+      "id": 1
+    },
+    {
+      "name": "syarif",
+      "jurusan": "informatika",
+      "id": 2
+    }
+  ]
+}
